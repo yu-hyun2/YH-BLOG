@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `치매예측모델`,
+      name: "Dementia_Analysis",
       href: "https://github.com/yu-hyun2/Dementia_Analysis",
     },
   ],
