@@ -5,15 +5,15 @@ const CONFIG = {
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    email: "cyh5123@daum.net",
+    linkedin: "none",
+    github: "yu-hyun2",
+    instagram: "u_u_hyun",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `치매예측모델`,
+      href: "https://github.com/yu-hyun2/Dementia_Analysis",
     },
   ],
   // blog setting (required)
