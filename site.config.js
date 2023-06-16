@@ -27,7 +27,7 @@ const CONFIG = {
   link: "https://morethan-log.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjo0LCJtb3V0aCI6MSwiZXllcyI6OSwiZXllYnJvd3MiOjgsImdsYXNzZXMiOjksImhhaXIiOjU2LCJhY2Nlc3NvcmllcyI6NywiZGV0YWlscyI6OSwiYmVhcmQiOjAsImZsaXAiOjEsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
