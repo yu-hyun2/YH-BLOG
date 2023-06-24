@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: "Dementia_Analysis",
-      href: "https://github.com/yu-hyun2/Dementia_Analysis",
+      href: "https://github.com/yu-hyun2/Dementia_Analysis-1",
     },
   ],
   // blog setting (required)
