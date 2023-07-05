@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "유H연의 스케치북",
+    title: "죄유연, 아즈카반의 하루",
     description: "welcome to my channel",
     theme: "auto", // ['light', 'dark', 'auto']
   },
