@@ -4,7 +4,7 @@ const CONFIG = {
     name: "CHOI YU HYUN",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "data analyst",
-    bio: "feel my rhythm",
+    bio: "feel my rhythm"\n "코드가 보이지 않는 오류 발생 -> 새로고침 필요",
     email: "cyh5123@daum.net",
     linkedin: "yuhyun2",
     github: "yu-hyun2",
